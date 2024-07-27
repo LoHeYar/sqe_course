@@ -1,1 +1,3 @@
 some info in the feature file
+
+one more line to the second commit
